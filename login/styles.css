@@ -66,3 +66,11 @@ form button {
     cursor: pointer;
     font-size: 20px;
 }
+form input[type=submit] {
+    color: #fff;
+    border: none;
+    background: linear-gradient(to right, #cb232c, #ce1d61);
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 20px;
+}
